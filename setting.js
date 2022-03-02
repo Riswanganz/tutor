@@ -22,8 +22,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['687710621']
-global.packname = 'CATZY - BOT MD -687710621'
+global.owner = ['Wanz']
+global.packname = 'WANZ-BOT'
 global.author = undefined
 global.sessionName = 'CATZY - BOT MD'
 global.prefa = ['','!','.','🎟️','🎟️','🎟️']
